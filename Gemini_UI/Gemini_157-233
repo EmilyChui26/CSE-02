@@ -25,6 +25,22 @@
 #classification: Hasty Generalization# Step 1 evaluation: Yes - The records of the speaker's students are being used as a sample. Step 2 evaluation: Yes - The sample size (the speaker's students) is unreasonably small compared to the total population of "society." Step 3 evaluation: Yes - The sample (the speaker's students) is likely unrepresentative of the broader population (society as a whole). Step 4 evaluation: Yes - A broad conclusion ("society is moving towards one-child families") is drawn from this small, unrepresentative sample. Step 5 evaluation: Yes - The conclusion about "society" is being applied to a much larger population or group than the sample. Step 6 evaluation: Yes - The generalization ignores any broader statistical data or patterns about family structures in society. Pattern comparison: My answers [Y/Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y/Y]
 #classification: Biased Sample Fallacy# Step 1 evaluation: Yes - Starbeam is observing events in their life related to horoscope consultation. Step 2 evaluation: Yes - Starbeam concludes "astrology is true" based on their personal observations. Step 3 evaluation: No - Starbeam's observations are anecdotal and not a carefully chosen, representative sample. Step 4 evaluation: Yes - Starbeam's conclusion is based on their own biased perception and selective memory, which is a bias in the sample. Pattern comparison: My answers [Yes/Yes/No/Yes] exactly match ground truth [yes/yes/no/yes]
 #classification: Alleged Certainty# Step 1 evaluation: Yes - The statement "All good Catholics know..." asserts a definitive conclusion about what is known. Step 2 evaluation: Yes - The phrase "All good Catholics know" implies universal knowledge and certainty within that specific group. Step 3 evaluation: Yes - The certainty claim ("All good Catholics know") is the primary justification for the conclusion that impure thoughts are the work of the devil and should be resisted. Step 4 evaluation: Yes - The truth value of impure thoughts being "the work of the devil" is a belief, not an objective, universally certain fact, despite the confident presentation. Step 5 evaluation: Yes - The argument's strength relies on the assumed universal knowledge within a group rather than on independent theological or empirical reasoning. Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#classification: Alleged Certainty# Step 1 evaluation: Yes - An assertion is made: "The author is simply wrong." Step 2 evaluation: Yes - The phrase "simply wrong" implies a universal and undeniable certainty. Step 3 evaluation: Yes - The certainty claim ("simply wrong") is the only justification provided for dismissing Jose's statement. Step 4 evaluation: Yes - Whether "people are mostly good at heart" is a debatable claim, making the certainty of the rebuttal questionable. Step 5 evaluation: Yes - The argument's force comes from the confident assertion of wrongness, not from any actual evidence or reasoning. Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#classification: Appeal to Accomplishment# Step 1 evaluation: Yes - The claim is "the egg certainly came before the chicken." Step 2 evaluation: Yes - The claim is defended based on Professor Xavier's Nobel prize and MMA world championship. Step 3 evaluation: Yes - The speaker accepts the claim as true because of Professor Xavier's accomplishments. Step 4 evaluation: Yes - The logical connection relies on Professor Xavier's status and achievements (Nobel Prize, MMA world championship) rather than any scientific or logical reasoning about the chicken and egg problem itself. Pattern comparison: My answers [Yes/Yes/Yes/Yes] exactly match ground truth [yes/yes/yes/yes]
+#classification: Argument from Ignorance# Step 1 evaluation: Yes - The claim "God exists" is being made. Step 2 evaluation: Yes - The belief in God's existence is reliant on the absence of proof to the contrary ("Until you can prove otherwise"). Step 3 evaluation: No - No substantial logical evidence is provided to support the claim; the burden of proof is shifted. Pattern comparison: My answers [Yes/Yes/No] exactly match ground truth [yes/yes/no]
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
