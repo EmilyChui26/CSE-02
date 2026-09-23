@@ -1,2 +1,2 @@
 # CSE-02
-Logical fallacies 
+https://arxiv.org/pdf/2510.09970
